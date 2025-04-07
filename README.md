@@ -1,5 +1,8 @@
 [![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kyeonghyeon0314&show_icons=true&hide=contribs&hide_border=true)](https://github.com/lyeoni)
 
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonghyeon0314&layout=compact&theme=tokyonight&langs_count=5)
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyeoni.g@gmail.com)](mailto:kimkh5348@gmail.com)
 
 
