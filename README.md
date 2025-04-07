@@ -1,4 +1,8 @@
-## Hi there 👋
+[![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kyeonghyeon0314&show_icons=true&hide=contribs&hide_border=true)](https://github.com/lyeoni)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyeoni.g@gmail.com)](mailto:kimkh5348@gmail.com)
+
+
 
 <!--
 **kyeonghyeon0314/kyeonghyeon0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
