@@ -1,4 +1,6 @@
-[![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kyeonghyeon0314&show_icons=true&hide=contribs&hide_border=true)](https://github.com/kyeonghyeon0314)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonghyeon0314&layout=compact&card_width=320&line_height=25&theme=github&langs_count=6)             
+[![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kyeonghyeon0314&show_icons=true&hide=contribs&hide_border=true)](https://github.com/kyeonghyeon0314)    
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonghyeon0314&layout=compact&card_width=320&line_height=25&theme=github&langs_count=6)             
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimkh5348@gmail.com)](mailto:kimkh5348@gmail.com)
 [![CV PDF](https://img.shields.io/badge/CV-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white&link=https://your-cv-link.com)](files/CV_김경현.pdf)
