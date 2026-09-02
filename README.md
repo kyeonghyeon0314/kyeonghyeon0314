@@ -1,5 +1,3 @@
-![GitHub Metrics](github-metrics.svg)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimkh5348@gmail.com)](mailto:kimkh5348@gmail.com)
 [![CV PDF](https://img.shields.io/badge/CV-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white&link=files/CV_김경현.pdf)](files/CV_김경현.pdf)
 
